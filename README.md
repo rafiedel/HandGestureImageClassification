@@ -1,8 +1,9 @@
-# HandGestureImageClassification
+# Hand Gesture Image Classification
 
-##Python library i used for my work:##
-- tensorflow
-- matpotlib
+## Python Libraries Used:
+
+- TensorFlow
+- Matplotlib
 - os
 - zipfile
 - shutil
